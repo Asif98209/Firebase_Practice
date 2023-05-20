@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882700572435",
+    "project_id": "firepractice-38e45",
+    "storage_bucket": "firepractice-38e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882700572435:android:075aa36e2a4eec9c3a6ce6",
+        "android_client_info": {
+          "package_name": "com.example.firepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882700572435-lv5ies5b6mgkkd1tqs7qu9g6urpdfjc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAId0yxoXhATgdUHEFu69hfXiO9mjHJHq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882700572435-lv5ies5b6mgkkd1tqs7qu9g6urpdfjc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
